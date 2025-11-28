@@ -7,5 +7,7 @@ public class Main {
     
         //taking input in the print method
         //it directly takes the input and then also outputs that
+
+        input.close();
     }
 }
